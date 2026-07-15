@@ -1,4 +1,4 @@
-# 🔔 Webhook
+
 
 > **Event-Driven HTTP Callback** · กลไกที่ทำให้ระบบพูดคุยกันได้แบบอัตโนมัติ
 
